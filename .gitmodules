@@ -1,3 +1,6 @@
 [submodule "GP495-Web"]
 	path = GP495-Web
 	url = https://github.com/zRakan/GP495-Web.git
+[submodule "GP495-Model-API"]
+	path = GP495-Model-API
+	url = https://github.com/zRakan/GP495-Model-API.git
