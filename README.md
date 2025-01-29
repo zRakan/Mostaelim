@@ -5,8 +5,8 @@
 
 * **GP495/GP497** Project
 * Contains 2 layers (different codebase):
-    - [Web Layer](GP495-Web)
-    - [Model Layer](GP495-Model-API)
+    - [Web Layer](https://github.com/zRakan/GP495-Web/tree/98b69250da9c589c88fc09e723e23f2900c4ab04)
+    - [Model Layer](https://github.com/zRakan/GP495-Model-API/tree/ffc6cc6af85b58b1bfa69dcd1f08f0c1e1072efd)
 
 ## System Architecture
 <img src='./assets/Architecture.png' />
